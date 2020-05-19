@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 """This script recursively scans all wasm in a directory and runs one 
 chrome session per wasm to store the console.log in a ouput file 
